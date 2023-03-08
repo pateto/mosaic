@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  ubuntu-python:
+    build: .
+    container_name: gdal-jupyter
+    volumes:
+      - /Users/alvaro.caceres/Desktop/mosaic/workspace:/workspace
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_TOKEN=123
