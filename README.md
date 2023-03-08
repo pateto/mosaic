@@ -1,4 +1,4 @@
-# docker-ubuntu-python
+# MODIS Mosaic
 
 ## Installation
 
