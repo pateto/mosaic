@@ -25,3 +25,9 @@ Docker rm <container id>
 Run container:
 
 docker exec -it <container id> bash
+
+## Coordinates
+
+-te -77.0977784 2.6806309 -74.8994250 5.3691362  
+
+Pixel Size = (0.027553371149271,-0.027312304037598)

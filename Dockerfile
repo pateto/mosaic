@@ -4,7 +4,8 @@ RUN apt-get update && \
     apt-get -y install pip
 
 RUN pip install notebook \
-    pip install matplotlib
+    pip install matplotlib \
+    p¡p install rasterio
 
 WORKDIR /workdir
 
